@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from India </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **DSA & Full Stack Development**
-- 💻 Interested in **Software Development**
+- 💻 Interested in **Full Stack Development**
 - 🚀 Working on different coding projects
 - 📚 Always learning new technologies
 
@@ -36,7 +36,6 @@
 ### 🔗 Connect With Me
 
 - 💻 LeetCode
-- 📚 GeeksforGeeks
 - 💼 LinkedIn
 
 ---
