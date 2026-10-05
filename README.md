@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **DSA & Full Stack Development + AI**
-- 💻 Interested in **Full Stack Development AI**
+- 💻 Interested in ** AI+Full Stack Development **
 - 🚀 Working on different coding projects
 - 📚 Always learning new technologies
 
