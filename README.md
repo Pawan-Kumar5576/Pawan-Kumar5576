@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 
-<h3 align="center">A passionate AI + Full Stack Developer  from India </h3>
+<h3 align="center">A passionate AI full Stack Developer  from India </h3>
 
 ---
 
